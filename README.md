@@ -1,7 +1,7 @@
-### Hi there, I am a beginner backend specialist in java development.👋 Glad to see you on this page.🤡 Here I will post my work and share my develop experience in java.💻
-### I also studied in the Yandex on the java-developer program. 🌱
+#### Hi there, I am a beginner backend specialist in java development.👋 Glad to see you on this page.🤡 Here I will post my work and share my develop experience in java.💻
+#### I also studied in the Yandex on the java-developer program. 🌱
 
-## My github stats:
+##### My github stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ovarbor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
