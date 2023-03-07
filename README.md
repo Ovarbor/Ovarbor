@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I am a beginner backend specialist in java development. 👋
+### Glad to see you on this page. 👋
 ### Java javac (❁´◡`❁)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor&show_icons=true)
