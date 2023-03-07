@@ -6,11 +6,7 @@ How to reach me: <a href="mailto:ovabor1991@gmail.com">email</a> 📫
 
 My github stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor&show_icons=true)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor&show_icons=true&theme=synthwave)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ovarbor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
