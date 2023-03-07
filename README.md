@@ -1,10 +1,11 @@
 #### Hi there, i am a beginner backend specialist in java development.👋 Glad to see you on this page.🤡 Here i will post my work and share my develop experience in java.💻
 #### I also studied in the Yandex on the java-developer program. 🌱
+#### How to reach me: <a href="ovabor1991@gmail.com">email</a> 📫
 
 #### My github stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor&show_icons=true)
 
-📫 How to reach me: <a href="ovabor1991@gmail.com">email</a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ovarbor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
