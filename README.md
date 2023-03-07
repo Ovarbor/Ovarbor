@@ -1,5 +1,7 @@
 ### Hi there, I am a beginner backend specialist in java development. 👋
 ### Glad to see you on this page. 👋
+# Here I will post my work and share my develop experience in java. 👋
+### I also studied in the Yandex on the java-developer program. 🌱
 ### Java javac (❁´◡`❁)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor&show_icons=true)
