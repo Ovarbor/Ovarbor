@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Java javac (❁´◡`❁)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Ovarbor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor)](https://github.com/Ovarbor/github-readme-stats)
 
 
 github stuts
