@@ -8,7 +8,7 @@ My github stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor&show_icons=true&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor&show_icons=true)
 
