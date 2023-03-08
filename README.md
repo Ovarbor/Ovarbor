@@ -19,7 +19,7 @@ My github stats:
 </div>
 
 <a href="https://htmlacademy.ru">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 </a>
 
 <!--
