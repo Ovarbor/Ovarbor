@@ -18,10 +18,9 @@ My github stats:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-<button name="nubex" value="Nubex">
-<img style="vertical-align: middle; width: 24px;" src="http://nubex.ru/files/siroezhkin/icon.png" alt="" />
-Конструктор сайтов "Нубекс"
-</button>
+<a href="https://htmlacademy.ru">
+  <img src="images/cat.jpg" width="600" height="200" width="600">
+</a>
 
 <!--
 **Ovarbor/Ovarbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
