@@ -4,12 +4,6 @@ You can also see my other projects and code examples here <a href="https://gitla
 
 How to reach me: <a href="mailto:ovabor1991@gmail.com">email</a> 📫
 
-My github stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor&show_icons=true&theme=synthwave)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ovarbor&layout=compact)
-
 Technology stack:
 
 <div>
@@ -29,6 +23,12 @@ Technology stack:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </a>
 </div>
+
+My github stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor&show_icons=true&theme=synthwave)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ovarbor&layout=compact)
 
 <!--
 **Ovarbor/Ovarbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
