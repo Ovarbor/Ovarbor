@@ -10,6 +10,8 @@ My github stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ovarbor&layout=compact)
 
+Technology stack:
+
 <div>
 <a href="https://www.java.com/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
