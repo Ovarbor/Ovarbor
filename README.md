@@ -18,7 +18,7 @@ My github stats:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-<base target="_blank">
+<div>
 <a href="https://www.java.com/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </a>
@@ -34,6 +34,7 @@ My github stats:
 <a href="https://github.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </a>
+</div>
 
 <!--
 **Ovarbor/Ovarbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
