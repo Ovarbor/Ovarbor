@@ -18,12 +18,16 @@ My github stats:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-<a href="https://www.postgresql.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-</a>
 <a href="https://www.java.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 </a>
+<a href="https://spring.io/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postrgeSQL" alt="postrgeSQL" width="40" height="40"/>
+</a>
+
 
 <!--
 **Ovarbor/Ovarbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
