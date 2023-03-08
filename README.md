@@ -19,7 +19,7 @@ My github stats:
 </div>
 
 <a href="https://htmlacademy.ru">
-  <img src="C:/Users/Morkovka/Desktop/Иконки%20программ/postgresql-original-wordmark.svg" width="600" height="200" width="600">
+  <img src="C:/Users/Morkovka/Desktop/Иконки%20программ/postgresql-original-wordmark.svg" width="40" height="40">
 </a>
 
 <!--
