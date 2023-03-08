@@ -18,6 +18,7 @@ My github stats:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+<div>
 <a href="https://www.java.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 </a>
@@ -30,6 +31,10 @@ My github stats:
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </a>
+<a href="https://github.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.sv" title="Java" alt="Java" width="40" height="40"/>
+</a>
+</div>
 
 
 <!--
