@@ -21,6 +21,9 @@ My github stats:
 <a href="https://www.postgresql.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 </a>
+<a href="https://www.java.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+</a>
 
 <!--
 **Ovarbor/Ovarbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
