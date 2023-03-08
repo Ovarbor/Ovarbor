@@ -18,7 +18,8 @@ My github stats:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-<div>
+<body>
+<base target="_blank">
 <a href="https://www.java.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 </a>
@@ -34,7 +35,7 @@ My github stats:
 <a href="https://github.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </a>
-</div>
+</body>
 
 
 <!--
