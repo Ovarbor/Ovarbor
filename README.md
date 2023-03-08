@@ -27,6 +27,9 @@ My github stats:
 <a href="https://www.postgresql.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postrgeSQL" alt="postrgeSQL" width="40" height="40"/>
 </a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
+</a>
 
 
 <!--
