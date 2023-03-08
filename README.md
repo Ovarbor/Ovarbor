@@ -4,7 +4,7 @@ You can also see my other projects and code examples here <a href="https://gitla
 
 How to reach me: <a href="mailto:ovabor1991@gmail.com">email</a> 📫
 
-Technology stack:
+#### Technology stack:
 
 <div>
 <a href="https://www.java.com/" target="_blank">
@@ -24,13 +24,7 @@ Technology stack:
 </a>
 </div>
 
-
-
-
-
-
-
-My github stats:
+#### My github stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovarbor&show_icons=true&theme=synthwave)
 
