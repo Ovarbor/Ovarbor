@@ -1,4 +1,4 @@
-Hi there, i am a beginner backend specialist in java development.👋 Glad to see you on this page.🤡 Here i will post my work and share my develop experience in java.💻 I also studied in the Yandex on the java-developer program. 🌱
+Hi there, i am backend specialist in java development.👋 Glad to see you on this page.🤡 Here i will post my work and share my develop experience in java.💻 I also studied in the Yandex on the java-developer program. 🌱
 
 You can also see my other projects and code examples here <a href="https://gitlab.com/ovabor1991">here</a> 🚀
 
