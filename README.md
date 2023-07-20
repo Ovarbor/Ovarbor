@@ -30,12 +30,12 @@ How to reach me: <a href="mailto:ovabor1991@gmail.com">email</a> 📫
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ovarbor&layout=compact)
 
-<!--
-**Ovarbor/Ovarbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 #### My codewars stats:
 
 ![alt rank](https://www.codewars.com/users/Ovarbor/badges/large)
+
+<!--
+**Ovarbor/Ovarbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
