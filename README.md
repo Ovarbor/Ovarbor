@@ -33,6 +33,10 @@ How to reach me: <a href="mailto:ovabor1991@gmail.com">email</a> 📫
 <!--
 **Ovarbor/Ovarbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+#### My codewars stats:
+
+![alt rank](https://www.codewars.com/users/Ovarbor/badges/large)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
